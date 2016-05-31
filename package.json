@@ -1,0 +1,19 @@
+{
+  "name": "batch-promise",
+  "version": "1.0.0",
+  "description": "Execute an array of promises in groups of predefined elements instead of all at once. If the group is 1, the execution will be synchronous.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjcastano/batch-promise.git"
+  },
+  "keywords": [
+    "batch",
+    "promise"
+  ],
+  "author": "Juan José Castaño <mail@jjcastano.com> (http://www.jjcastano.com)",
+  "license": "MIT"
+}
